@@ -1,2 +1,2 @@
-# Deploy-S3-VPC
-Terraform to deploy S3-VPC
+# Deploy-S3-EC2-Jenkins etc
+Terraform to deploy S3-EC2-Jenkins-Gits-K86 etc
